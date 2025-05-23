@@ -16,7 +16,7 @@ Create a secure AWS infrastructure using the AWS CLI
   - Install the latest system updates as part of the launch process.
 
 ## Benefit
-This Projects provides you with a shell script thatallows you to quickly set up a simple awsinfrastructure. The project name can be set uponexecution and influences the names of most subcomponents.
+This Projects provides you with a shell script that allows you to quickly set up a simple aws infrastructure. The project name can be set upon execution and influences the names of most subcomponents.
 
 ## Useage
 You can clone this repository with the git command:
